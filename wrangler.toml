@@ -7,11 +7,9 @@ compatibility_date = "2023-05-26"
 [[routes]]
 pattern = "sg1.kme.ip-ddns.com"
 custom_domain = true
-
 [[routes]]
 pattern = "www.speedtest.net.sg1.kme.ip-ddns.com"
 custom_domain = true
-
 [[routes]]
 pattern = "www.pubgmobile.com.sg1.kme.ip-ddns.com"
 custom_domain = true
